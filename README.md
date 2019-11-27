@@ -1,4 +1,4 @@
-![It is olympics symbols!](german.jpg "The symbol")
+![It is olympics symbols!](images/german.jpg "The symbol")
 
 # The Olympics Data Visualization
 
